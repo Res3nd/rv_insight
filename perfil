@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil @rv_insight</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F2F2F2;
+            color: #0A2540;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: auto;
+            text-align: center;
+            padding: 20px;
+        }
+        .profile-header {
+            background-color: #0A2540;
+            color: #FFFFFF;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .profile-header h1 {
+            margin: 0;
+        }
+        .profile-header p {
+            font-size: 1.2em;
+        }
+        .bio {
+            margin: 20px 0;
+            font-size: 1.1em;
+            text-align: left;
+        }
+        .bio p {
+            margin: 10px 0;
+        }
+        .bio ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .bio ul li {
+            margin: 5px 0;
+        }
+        .post {
+            background-color: #0A2540;
+            color: #FFFFFF;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .post h2 {
+            margin-top: 0;
+        }
+        .cta {
+            color: #2ECC71;
+            font-weight: bold;
+        }
+        .contact {
+            background-color: #E67E22;
+            color: #FFFFFF;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        .highlight {
+            display: inline-block;
+            width: 150px;
+            height: 150px;
+            background-color: #2ECC71;
+            color: #FFFFFF;
+            border-radius: 75px;
+            margin: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2em;
+        }
+        .section-title {
+            font-size: 1.5em;
+            margin: 20px 0;
+            color: #0A2540;
+        }
+        .testimonial {
+            background-color: #FFFFFF;
+            color: #0A2540;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: left;
+        }
+        .testimonial p {
+            margin: 10px 0;
+        }
+        .testimonial .author {
+            font-weight: bold;
+            color: #2ECC71;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-header">
+            <h1>@rv_insight</h1>
+            <p>Transformando cliques em clientes 📈</p>
+        </div>
+        <div class="bio">
+            <p>🚀 Bem-vindo ao @rv_insight! Eu sou Roberto Victor, especialista em tráfego pago e administrador de empresas, dedicado a ajudar você a alcançar o sucesso online através de estratégias de marketing digital eficientes e inovadoras.</p>
+            <p>🔍 <strong>O que você encontrará aqui:</strong></p>
+            <ul>
+                <li>📊 Estratégias de Tráfego Pago: Desde o básico até técnicas avançadas.</li>
+                <li>📈 Análises de Casos de Sucesso: Estudos detalhados de campanhas bem-sucedidas.</li>
+                <li>💡 Dicas de Marketing Digital: Conselhos práticos para aumentar seu alcance e engajamento.</li>
+                <li>🌐 Tendências e Inovações: Fique por dentro das últimas novidades do mercado.</li>
+            </ul>
+            <p>🎓 <strong>Certificações:</strong></p>
+            <ul>
+                <li>✔️ Certificação em Google Ads</li>
+                <li>✔️ Certificação em Facebook Blueprint</li>
+                <li>✔️ Certificação em HubSpot Content Marketing</li>
+            </ul>
+            <p>🛠️ <strong>Ferramentas Utilizadas:</strong> Google Analytics, SEMrush, Hootsuite, HubSpot.</p>
+            <p>📧 Vamos conversar: <a href="mailto:contato@rvinsight.com">contato@rvinsight.com</a></p>
+        </div>
+        <div class="section-title">Posts Recentes</div>
+        <div class="post">
+            <h2>Bem-vindos ao @rv_insight!</h2>
+            <p>
+                Olá, eu sou Roberto Victor, especialista em tráfego pago e administrador de empresas. Neste espaço, compartilharei dicas valiosas, estratégias práticas e insights poderosos para transformar cliques em clientes e levar o seu negócio a novos patamares.
+            </p>
+            <p class="cta">Siga @rv_insight para não perder nenhuma novidade!</p>
+        </div>
+        <div class="section-title">Depoimentos</div>
+        <div class="testimonial">
+            <p>"Roberto ajudou nossa empresa a dobrar as conversões em apenas três meses. Suas estratégias de tráfego pago são incrivelmente eficazes!"</p>
+            <p class="author">- João Silva, CEO da Empresa X</p>
+        </div>
+        <div class="testimonial">
+            <p>"A expertise de Roberto em marketing digital nos proporcionou um crescimento significativo no nosso público online. Recomendo altamente seus serviços!"</p>
+            <p class="author">- Maria Oliveira, Diretora de Marketing da Empresa Y</p>
+        </div>
+        <div class="section-title">Destaques</div>
+        <div class="highlights">
+            <div class="highlight">Dicas</div>
+            <div class="highlight">Estratégias</div>
+            <div class="highlight">Inovações</div>
+        </div>
+    </div>
+</body>
+</html>
